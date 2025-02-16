@@ -1,8 +1,28 @@
-# React + Vite
+## 🕰️ Digital Clock Project:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- A digital clock that displays the current time dynamically with a visually appealing background inspired by Dragon Ball. This was a learning project used for practicing useEffect hooks.
 
-Currently, two official plugins are available:
+## 😧 Features:
+- ⏰ Live Time Updates: The clock updates every second.
+- 🎨 Aesthetic Background: A visually stunning design for a more immersive experience.
+- 🌙 AM/PM Format: Displays time in 12-hour format.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  📸 Screenshot: 
+- ![Digital Clock Screenshot](Digital-Clock-Demo.png)
+
+##  🌍 LIVE DEMO:
+- Try it Out: https://chrisw0987.github.io/digital-clock/
+
+## 🛠 Tech Stack:
+- **Frontend:** React.js, Vite
+- **Styling:** CSS, Animations
+- **Tools**: GitHub, VS Code
+
+
+## 📦 Installation:
+1. Clone the repository:
+   ```bash
+   git clone https://chrisw0987.github.io/digital-clock/
+2. cd digital-clock
+3. npm install
+4. npm run dev
